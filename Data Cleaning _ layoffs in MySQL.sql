@@ -1,4 +1,5 @@
 -- Data Cleaning
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 -- 1. Remove duplicates
 -- 2. Standardise the Data
